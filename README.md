@@ -1,2 +1,1 @@
-# bdt_app
-BDT App
+# BDT
